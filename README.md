@@ -305,7 +305,10 @@ Encontrado promotores para esto utilizaremos diferentes herramientas utilizando 
 
 a) Promoter Hunter 
 http://www.phisite.org/main/index.php?nav=tools&nav_sel=hunter
-b)
+
+b) BACPP busca facteores sigma dentro de las secuencias  http://www.bacpp.bioinfoucs.com/ferramenta 
+
+c) 
 
 
 ### EJERCICIO 3 
