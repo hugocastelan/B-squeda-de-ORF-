@@ -4,8 +4,8 @@
    Durante este ejercicio se evaluará la forma de predecir ORF, promotores y motivos en un genoma utilizando herramientas online 
    
 ### Ejercicio 1 
-    A partir de la siguiente genoma vamos a utilizar la herramienta online ORFFINDER https://www.ncbi.nlm.nih.gov/orffinder/ 
-    >ref|NC_007761.1|:3582433-3597368 Rhizobium etli CFN 42, complete sequence
+A partir de la siguiente genoma vamos a utilizar la herramienta online ORFFINDER https://www.ncbi.nlm.nih.gov/orffinder/ 
+            >ref|NC_007761.1|:3582433-3597368 Rhizobium etli CFN 42, complete sequence
             CGTGCCGGTTAACCATCCACTTTCCGGCATCGCCCTCATGCTCTTCCTCGCGATGGCGCTGACGCCCTTC
             GTCAACAACGCGACGGTCGCAATCGTGCTCGCCCCGATCGCACTCGAATTTGCAAAGATCGGGCGGCACG
             CACCGGACGCCTATCTGATCGCGGTCGCCGTCGGAGCCTCGCTCGATTTTCTGACGCCCTTCGGCCATCA
@@ -220,4 +220,12 @@
             GCTTTCCGCTGGCCTGACGATCGAGCTGCGCGGCTCTCACGATCATCTCTTGCAGGAATTCGTCGAGGTG
             CTGAACGGTCTCGGCCACCTGCCCGCCACCGTTACGCTTTGCACAGACGACGTCTTTCCCGATGAACTCT
             ACCAAAGCGGCGGCCTCGATGAGGTC
+            
+
+
+### Preguntas 
+1. ¿Cuántos ORF tiene el genoma cuando se selecciona una minima longitud 75 nt? 
+2. ¿Cuántos ORF tiene el genoma cuando se selecciona una minima longitud 600 nt?
+
+
     
