@@ -6,7 +6,7 @@
 
 ### Ejericicio 1 
 Descargando un genoma de la base de datos del NCBI 
-Raoultella planticola 
+Raoultella planticola y Rhizobium etli
 Descargar el gbk y fasta completos 
 
 ### Ejercicio 2
