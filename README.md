@@ -227,7 +227,16 @@ A partir de la siguiente genoma vamos a utilizar la herramienta online ORFFINDER
 ### Preguntas 
 1. ¿Cuántos ORF tiene el genoma cuando se selecciona una minima longitud 75 nt? 
 2. ¿Cuántos ORF tiene el genoma cuando se selecciona una minima longitud 600 nt?
-3. ¿
+3. ¿Cuántos ORF tiene el genoma cuando se selecciona una minima longitud 75 nt, si omitimos los ORF anidados?
+4. ¿Cuántos ORF se obtiene si se utiliza un codón de inicio alternativo?
+5. ¿A que corresponde el ORF65 selecciona la base de datos de blast?
+6. ¿A que corresponde el ORF34 selecciona la base de datos SWISSPROT?
+
+
+### EJERCICIO 2 
+
+
+
 
 
     
