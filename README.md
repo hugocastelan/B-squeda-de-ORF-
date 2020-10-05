@@ -2,8 +2,14 @@
 
 ## Descripción 
    Durante este ejercicio se evaluará la forma de predecir ORF, promotores y motivos en un genoma utilizando herramientas online 
-   
-### Ejercicio 1 
+
+
+### Ejericicio 1 
+Descargando un genoma de la base de datos del NCBI 
+Raoultella planticola 
+Descargar el gbk y fasta completos 
+
+### Ejercicio 2
 A partir de la siguiente genoma vamos a utilizar la herramienta online ORFFINDER https://www.ncbi.nlm.nih.gov/orffinder/ 
    
                      >ref|NC_007761.1|:3582433-3597368 Rhizobium etli CFN 42, complete sequence
@@ -265,15 +271,22 @@ a) Promoter Hunter  http://www.phisite.org/main/index.php?nav=tools&nav_sel=hunt
 
 b) BACPP busca facteores sigma dentro de las secuencias  http://www.bacpp.bioinfoucs.com/ferramenta 
 
-c) http://genome2d.molgenrug.nl/g2d_pepper_promoters.php
+c) El programa PEPPER http://genome2d.molgenrug.nl/g2d_pepper_promoters.php
 
 
 ### EJERCICIO 3 
-Encontrando terminadores en la secuencia del genoma 
+Encontrando terminadores en la secuencia del genoma utilizamos las herramientas
+http://rssf.i2bc.paris-saclay.fr/toolbox/arnold/index.php
+
+1. ¿Cuantos terminadores tiene el genoma de Rhizobium etli?
+2. Copia la secuencia
+3. ¿Cuantos terminadoares tiene el genome si solo selecciono la secuencia Forward?
+4. Copia la secuencia 
 
 
 ### EJERCICIO 4 
-Encontrando motivos en la secuencias de DNA 
+Encontrando motivos en la secuencias de DNA utilizaremos la herramienta MEME http://meme-suite.org/ 
+Seleccionamos los 
 
 
 
